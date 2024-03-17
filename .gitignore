@@ -1,0 +1,12 @@
+go.sum
+
+# sqlite database
+database.db
+
+# Compiled binary files
+*.exe
+*.o
+*.out
+
+# Dependency directories
+/vendor/
